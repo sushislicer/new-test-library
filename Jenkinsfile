@@ -1,2 +1,3 @@
-@Library('hello-world-1') _
+@Library('new-test-library@master') _
 
+pipelineVars1()
