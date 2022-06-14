@@ -1,3 +1,5 @@
 @Library('new-test-library@master') _
 
-pipelineVars1('Goodbye')
+pipelineVars1(
+    inParallel: true
+)
